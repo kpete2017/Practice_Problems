@@ -1,0 +1,14 @@
+{
+  "name": "twilio_questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DistinctPairs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
